@@ -56,6 +56,17 @@ I'm a **Computer Science graduate** passionate about **Cloud Computing, DevOps, 
 </p>
 
 ---
+## 🧩 LeetCode
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode-Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://leetcode.com/u/Poorvick/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap" />
+  </a>
+</p>
 
 
 # 🚀 Featured Projects
