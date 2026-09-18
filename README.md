@@ -2,15 +2,6 @@
 
 ### ☁️ Cloud & DevOps Engineer | AWS | Kubernetes | Terraform
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
-</p>
-
----
-
 ## 🚀 About Me
 
 I'm a **Computer Science graduate** passionate about **Cloud Computing, DevOps, Automation, and scalable infrastructure**.
@@ -60,30 +51,12 @@ I'm a **Computer Science graduate** passionate about **Cloud Computing, DevOps, 
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## ☁️ AWS Skills
-
-```text
-EC2              ████████████████████
-S3               ████████████████████
-Lambda           ████████████████████
-API Gateway      ██████████████████░░
-DynamoDB         ██████████████████░░
-IAM              ██████████████████░░
-RDS              ████████████████░░░░
-CloudWatch       ████████████████░░░░
-Rekognition      ████████████████░░░░
-SNS              ███████████████░░░░░
-```
-
----
 
 # 🚀 Featured Projects
 
@@ -136,41 +109,7 @@ Research project focused on real-time cyber-threat detection using ensemble mach
 
 ---
 
-# 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
-</p>
-
----
-
-# 🎯 Currently Learning
-
-```text
-☸️ Kubernetes
-🏗️ Terraform & Infrastructure as Code
-🔄 Advanced CI/CD
-☁️ AWS Cloud Architecture
-🐳 Containerization
-🌐 Multi-Cloud Architecture
-🤖 Generative AI & Cloud
-```
 
 ---
 
