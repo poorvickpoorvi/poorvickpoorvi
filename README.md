@@ -55,10 +55,17 @@ I'm a **Computer Science graduate** passionate about **Cloud Computing, DevOps, 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
 ## 🧩 LeetCode
 
-## 🧩 LeetCode
+<p align="left">
+  <a href="https://leetcode.com/u/Poorvick/">
+    <img src="https://img.shields.io/badge/LeetCode-Poorvick-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<!-- LEETCODE-STATS:START -->
+**Problems Solved:** 0
+<!-- LEETCODE-STATS:END -->
 
 <a href="https://leetcode.com/u/Poorvick/">
   <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
